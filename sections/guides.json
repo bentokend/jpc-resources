@@ -1,0 +1,55 @@
+{
+    "fields": [
+        {
+            "name": "",
+            "value": "",
+            "inline": false
+        },
+        {
+            "name": "Tofugu",
+            "value": "[Tofugu](https://www.tofugu.com/)  is a great website for those interested in the Japanese language.\nIt’s a blog that goes into great detail about learning the language.  Inside the blog you will find instructions on how to start studying along with resources provided. This website is in the spotlight as many people have recommended it. ",
+            "inline": true
+        },
+        {
+            "name": "Nihongo e-na",
+            "value": "[Nihongo e-na](https://nihongo-e-na.com/eng/) is another great resource that also acts as a guide to learning Japanese. Inside the website you will find categories you can click on to help guide you on your journey to learning Japanese. It’s beginner friendly and is recommended by our Sensei Ruki!",
+            "inline": true
+        },
+        {
+            "name": "",
+            "value": "",
+            "inline": false
+        },
+        {
+            "name": "Itazura Neko",
+            "value": "[Itazura Neko](https://itazuraneko.neocities.org/learn/learnmain.html) is a website that has a lot that you can do and is just very well made. You can learn both Hiragana and\nKatakana on this website while putting your reading skills to the test with their large manga library. There’s a lot of resources that are packed into this website which we know you'll find useful so please do give it a shot! Recommended by Archelaus#6801",
+            "inline": true
+        },
+        {
+            "name": "Kanshudo",
+            "value": "[Kanshudo](https://www.kanshudo.com/) is a very enjoyable way to learn Japanese kanji and written Japanese. Whatever your current level is, Kanshudo will help you improve. Kanshudo provides free Japanese lessons, free online flashcards, games,  and a unique visualization of your kanji knowledge, the Kanji Wheel. This site is recommended by our Sensei Ruki! ",
+            "inline": true
+        },
+        {
+            "name": "",
+            "value": "",
+            "inline": false
+        },
+        {
+            "name": "Japanese Calligrapher Takumi ",
+            "value": "[Takumi](https://www.youtube.com/c/takumitohgu) is a super great youtuber who demonstrates how to handwrite Hiragana, Katakana and Kanji in the correct stroke orders. He does pronounce the characters as well making it easy to pick up on and work on your Japanese pronunciation. He has loads of videos so sit back and enjoy this amazing youtuber! ",
+            "inline": true
+        },
+        {
+            "name": "Sambon Juku",
+            "value": "[Sambon Juku](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw/featured) is another great\nyoutuber who teaches basic Japanese and more. His talking speed is ideal—not too fast, not too slow, so it's perfect for improving intermediate listening skills. If you’re interested,  do try watching some of his videos! ",
+            "inline": true
+        }
+    ],
+    "title": "Self-Study Guides ",
+    "description": "All the resources below will help guide you to start your Japanese journey. Please take a look at them and give it a shot!",
+    "color": 11749933,
+    "footer": {
+        "text": "Last updated 2022-08-09 - please let us know if you have any suggestions"
+    }
+}

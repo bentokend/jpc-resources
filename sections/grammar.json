@@ -1,0 +1,77 @@
+{
+    "fields": [
+        {
+            "name": "Minna no Nihongo Books 1 - 2",
+            "value": "[Minna no Nihongo 1](https://drive.google.com/file/d/1aGzyhSnQQnA1uM3BGnHFFi_7lkFHGqKB/view?usp=sharing) | [Minna no Nihongo 2](https://drive.google.com/file/d/1mUKqkylXbf3Bex9cgFN-gXrwHoa7Fx43/view?usp=sharing) - Books that are well structured but have a lack of English explanations. This makes them quite demanding, pushing you to improve your Japanese, in Japanese! (This may be more efficient for some, and could be inefficient for others.) Minna no Nihongo is notorious for lacking explanations in English. These files however, are translated editions that do contain those said explanations!",
+            "inline": true
+        },
+        {
+            "name": "国語－文法",
+            "value": "[国語－文法](https://www.youtube.com/playlist?list=PLKRhhk0lEyzM-XOmo9F55BoRlPSSivcVd) Making things a little bit different, here is a playlist on YouTube. The playlist covers a variety of topics surrounding grammar, ranging from 単位 (たんい), to 敬語 (けいご)! All of the videos are in Japanese, meaning you will need at least some level of foundation in order to understand the lessons provided. If you're not fond of the video format, you can have a look at the [site](https://www.kokugobunpou.com/%E7%94%A8%E8%A8%80/#gsc.tab=0). ",
+            "inline": true
+        },
+        {
+            "name": "",
+            "value": "",
+            "inline": false
+        },
+        {
+            "name": "All About Particles: A Handbook of Japanese Function Words",
+            "value": "[This book](https://drive.google.com/file/d/1rDMkiz-0fi-YQs6krNHdI_zGnu6jgpDZ/view) is simple, yet well structured. Here you will find lessons on 69 different particles. Each of these having detailed explanations, a myriad of examples and an analysis as to how they're used in each one! The examples found in this book do not have furigana to aid your reading, however do have the text written in romaji in case you do not know the reading for a word or few.\n",
+            "inline": true
+        },
+        {
+            "name": "Edewakaru.com",
+            "value": "[Edewakaru.com](https://www.edewakaru.com/) Is a website best suited for grammar learners who are more advanced (Not beginner friendly). The site is nice because it shows pictures and has a wide variety of grammar points to choose from. ",
+            "inline": true
+        },
+        {
+            "name": "",
+            "value": "",
+            "inline": false
+        },
+        {
+            "name": "Tae Kims Grammar Guide ",
+            "value": "[Tae Kims Grammar Guide](http://guidetojapanese.org/learn/grammar) is perfect for both beginner and more advanced Japanese learners. This guide is designed to make you understand grammar points in Japanese rather than in English which is super helpful. Inside the site you will find an introduction that will guide you to becoming a master at grammar. Heres a [PDF](http://www.guidetojapanese.org/grammar_guide.pdf) version of the grammar guide. Tae Kim is also available on mobile!",
+            "inline": true
+        },
+        {
+            "name": "JLPT先生",
+            "value": "[JLPT先生](https://jlptsensei.com/complete-jlpt-grammar-list/) is a website that comes with a more listly approach. It shows an index of grammar points, dividing them into the JLPT levels. Each point comes with examples and their translations. It doubles as an overview for grammar points and could be useful for quick reviews.",
+            "inline": true
+        },
+        {
+            "name": "",
+            "value": "",
+            "inline": false
+        },
+        {
+            "name": "Bunpro",
+            "value": "The [Bunpro](https://bunpro.jp/) path builds upon itself gradually, by introducing new grammar and showing you examples that only use things you have already learned. Don't worry though, if you already know a grammar point, or are using another resource, you have full control over customizing how and what you learn. Progress through your path with interactive grammar breakdowns, example sentences, and resources for each point. Got a question that’s not covered within the resources? Ask our active community, right from the Grammar Point you’re studying!",
+            "inline": true
+        },
+        {
+            "name": "Coto JLPT Grammar and Vocab Mega List",
+            "value": "[Coto JLPT Grammar and Vocab Mega List](https://docs.google.com/spreadsheets/d/1m6P8KXrzkgcp9Yxq6AH3uge7kA5yOudwzRN074Cuep0/edit#gid=895217071) Instructions on how to use the spreadsheet are inside. This presentation does cover a lot so I believe it has great potential. Covers N5-N1 Grammar and Vocab.",
+            "inline": true
+        },
+        {
+            "name": "",
+            "value": "",
+            "inline": false
+        },
+        {
+            "name": "80/20 Japanese blog",
+            "value": "[80/20 Japanese blog](https://8020japanese.com/blog/) This blog is beginner friendly and covers a lot for beginners. great resource for learning grammar and learning how to begin your journey with Japanese. Highly recommend taking a look at it and seeing if it works for you!",
+            "inline": true
+        },
+        {
+            "name": "Upwrite.jp",
+            "value": "[Upwrite.jp](https://upwrite.jp/grammar/) site that teaches and builds up your understanding of grammar by teaching you topics starting with—the various units that text can come in / 単位 (たんい), punctuation, the 5 different types of clauses, the parts of speech, Politeness and Honorifics / 敬語 (けいご), and lastly, the types of structures that text can come in. This can guide you to building a solid foundation to understanding Japanese Grammar. ",
+            "inline": true
+        }
+    ],
+    "title": "Grammar",
+    "description": "Here you will find resources related to studying grammar. Feel free to check them out! ",
+    "color": 5198940
+}

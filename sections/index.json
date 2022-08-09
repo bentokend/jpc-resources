@@ -1,0 +1,44 @@
+[
+	{
+		"key": "guides",
+		"title": "Self-Study Guides",
+		"color": "#06AED5",
+		"emoji": "🗺️"
+	},
+	{
+		"key": "kana",
+		"title": "Kana (Hiragana & Katakana)",
+		"color": "#086788",
+		"emoji": "1006380770266464296"
+	},
+	{
+		"key": "kanji",
+		"title": "Kanji & Vocab",
+		"color": "#F0C808",
+		"emoji": "1006380771675750461"
+	},
+	{
+		"key": "grammar",
+		"title": "Grammar",
+		"color": "#FFF1D0",
+		"emoji": "📝"
+	},
+	{
+		"key": "dict",
+		"title": "Dictionaries",
+		"color": "#DD1C1A",
+		"emoji": "📖"
+	},
+	{
+		"key": "books",
+		"title": "Books & Exercises",
+		"color": "#FF8811",
+		"emoji": "📚"
+	},
+	{
+		"key": "enter",
+		"title": "Entertainment",
+		"color": "#F4D06F",
+		"emoji": "🎦"
+	}
+]

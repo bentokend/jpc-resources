@@ -1,0 +1,70 @@
+{
+    "fields": [
+        {
+            "name": "WaniKani",
+            "value": "[WaniKani](https://www.wanikani.com/) is a type of software that teaches you kanji and vocabulary! It uses a special srs system that helps you focus on things that you have trouble on, and doesn't bring up things that are easier for you! All you have to do is use it! You don't have to make a deck or anything of the sort, just click on lesson or review! ",
+            "inline": true
+        },
+        {
+            "name": "Kanji Teacher",
+            "value": "[Kanji Teacher](https://apps.apple.com/us/app/kanji-teacher-learn-japanese/id1048445761) is a free mobile app that is super helpfull. Kanji Teacher knows not only all the 2,136 jōyō kanjis and their readings, but also the 8,000 most common Japanese words and how to pronounce them.  Kanjis can be grouped by JLPT level and school year which is nice to have for those who are interested in taking JLPT tests.",
+            "inline": true
+        },
+        {
+            "name": "",
+            "value": "",
+            "inline": false
+        },
+        {
+            "name": "Sakubun",
+            "value": "Do you want to see sample sentences using kanji you already know? [Sakubun](https://sakubun.herokuapp.com/), a free tool that lets you make a list of kanji you know, and then gives practice sentences (with translations) that use exclusively those kanji. You can also paste custom Japanese text and it'll add furigana to all the words having kanji outside of your list. There are a bunch of ways to create the list even if you know hundreds of kanji, like importing from anki or wanikani, for example.",
+            "inline": true
+        },
+        {
+            "name": "KanjiAlive.com",
+            "value": "[KanjiAlive](https://app.kanjialive.com/search) a website to search up kanji and their meaning! It also shows you the stroke order. Kanji alive is a resource for learning kanji, dedicated to helping you open the door to the fascinating characters that form the written Japanese language. All of the content in the application was created and reviewed with painstaking attention to detail by experienced Japanese instructors in order to help you best study, practice and retain kanji.",
+            "inline": true
+        },
+        {
+            "name": "",
+            "value": "",
+            "inline": false
+        },
+        {
+            "name": "Learn Kanji",
+            "value": "A [Youtube channel](https://www.youtube.com/c/LearnKanji) which mainly guides Japanese learners in its writing systems. Basically, each of the channel's videos features one Kanji. Learn Kanji makes learning Japanese fast and easy! Learn Kanji is a collection of free online Japanese lessons for beginners. If you want to study Japanese by yourself, Learn Kanji might be able to help you!",
+            "inline": true
+        },
+        {
+            "name": "Draw me a Kanji!",
+            "value": "[Draw me a Kanji!](https://mbilbille.github.io/dmak/) is a fun little website to search up Kanji stroke orders. Simply type the Kanji you want to see drawn and it will load a gif of the Kanji being drawn using correct stroke order.",
+            "inline": true
+        },
+        {
+            "name": "",
+            "value": "",
+            "inline": false
+        },
+        {
+            "name": "JLPTsensei’s Kanji list N5-N1",
+            "value": "[Click to view](https://jlptsensei.com/jlpt-n5-kanji-list/) in this resource JLPTsensei has put all of the Kanji that are in the JLPT test levels N5-N1. This is a useful website for those interested in taking JLPT tests.",
+            "inline": true
+        },
+        {
+            "name": "Kanji Tree ",
+            "value": "[Kanji Tree](https://www.appbrain.com/app/japanese-kanji-tree/com.asji.kanjitree) is a mobile app that you can download on your phone. It helps with remembering the Kanji and stroke orders. There is a priemium feature within the app that costs money but unlocks more tools. Other than that its a great app!",
+            "inline": true
+        },
+        {
+            "name": "The 214 Radicals and Their Meanings",
+            "value": "",
+            "inline": false
+        }
+    ],
+    "title": "Kanji & Vocab ",
+    "description": "Here in this channel you will find all resources related to studying Kanji & Vocab! ",
+    "image": {
+        "url": "https://cdn.discordapp.com/attachments/586060785944363015/601967460433788968/214_Radicals.JPG"
+    },
+    "color": 5198940
+}

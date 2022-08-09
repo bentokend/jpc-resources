@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "name": "Jisho",
+            "value": "[Jisho](https://jisho.org/) is a powerful Japanese-English dictionary. It lets you find words, kanji, example sentences and more quickly and easily. Enter any Japanese text or English word in the search box and Jisho will search a myriad of data for you. Jisho is also an app that you can download on your phone and has a bunch of cool tools you can use.",
+            "inline": true
+        },
+        {
+            "name": "Jpdb.io",
+            "value": "[Jpdb.io](https://jpdb.io/) is another great dictionary that teaches you both vocabulary and Kanji. Features of this dictionary include being able to; Extract vocabulary from texts, Thousands of pre-built decks that are available to use (can import your existing Anki database), Globally tracks your progress, state of the art algorithms and automatic sentence cards.",
+            "inline": true
+        },
+        {
+            "name": "",
+            "value": "",
+            "inline": false
+        },
+        {
+            "name": "Sakura-Paris.org",
+            "value": "[Sakura-Paris.org](https://sakura-paris.org/dict/) a great resource for (serious) learners: yes, a monolingual dictionary. Not only does it give relatively simple definitions, it also allows you to look up a word in a little window on the spot inside the definition (by clicking on the 振 button). Try it, and you won't regret it.",
+            "inline": true
+        },
+        {
+            "name": "All-Guide.com",
+            "value": "[All-Guide.com](https://all-guide.com/%e8%a3%9c%e7%ad%86/) is a website for definitions and synonyms. It's the same source as the number. So you won't be able to find every single word there. But it's good enough to start looking for 類語. People with N3/Intermediate level could check as well.",
+            "inline": true
+        },
+        {
+            "name": "",
+            "value": "",
+            "inline": false
+        },
+        {
+            "name": "Weblio.jp",
+            "value": " [Weblio.jp](https://www.weblio.jp/) is easier to understand at N2 and above. (each has a different database so slight differences in words and explanations). This dictionary is more for people in the N3-N2 range as it is a Japanese to Japanese dictionary.",
+            "inline": true
+        },
+        {
+            "name": "thesaurus.weblio.jp",
+            "value": "[link to site](https://thesaurus.weblio.jp/) same source as weblio. A dictionary for synonyms and antonyms. Feel free to use whichever one pleases you most. This site whoever is a little more old school. ",
+            "inline": true
+        },
+        {
+            "name": "",
+            "value": "",
+            "inline": false
+        },
+        {
+            "name": "Forvo, a Japanese pronunciation dictionary",
+            "value": "[Forvo](https://forvo.com/languages/ja/) a Japanese pronunciation dictionary is a pretty cool website where you can search Japanese words and hear them be pronounced. Which is a helpful tool for those who are interested in improving their listening/speaking skills. The site also lists off some phrases you can use in everyday Japan. If you’re interested, I think it's worth checking out!\n",
+            "inline": true
+        },
+        {
+            "name": "SentenceSearch.Neocities.org",
+            "value": "[Neocities.org](https://sentencesearch.neocities.org/) , this website has over 40,000 example sentences with Japanese, English and audio. A very convenient site for those using any flashcard apps and the site itself is fairly simple to use. ",
+            "inline": true
+        },
+        {
+            "name": "",
+            "value": "",
+            "inline": false
+        }
+    ],
+    "title": "Dictionaries ",
+    "description": "Here you will find resources related to dictionaries. Check them out and see which one works best for you!",
+    "color": 5198940
+}
