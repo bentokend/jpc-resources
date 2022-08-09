@@ -2,12 +2,12 @@
     "fields": [
         {
             "name": "Minna no Nihongo Books 1 - 2",
-            "value": "[Minna no Nihongo 1](https://drive.google.com/file/d/1aGzyhSnQQnA1uM3BGnHFFi_7lkFHGqKB/view?usp=sharing) | [Minna no Nihongo 2](https://drive.google.com/file/d/1mUKqkylXbf3Bex9cgFN-gXrwHoa7Fx43/view?usp=sharing) - Books that are well structured but have a lack of English explanations. This makes them quite demanding, pushing you to improve your Japanese, in Japanese! (This may be more efficient for some, and could be inefficient for others.) Minna no Nihongo is notorious for lacking explanations in English. These files however, are translated editions that do contain those said explanations!",
+            "value": "[Minna no Nihongo 1](https://drive.google.com/file/d/1aGzyhSnQQnA1uM3BGnHFFi_7lkFHGqKB/view?usp=sharing) | [Minna no Nihongo 2](https://drive.google.com/file/d/1mUKqkylXbf3Bex9cgFN-gXrwHoa7Fx43/view?usp=sharing) - These books that are well structured but have a lack of English explanations. This makes them quite demanding, pushing you to improve your Japanese, in Japanese! (This may be more efficient for some, and could be inefficient for others.) Minna no Nihongo is notorious for lacking explanations in English. These files however, are translated editions that do contain those said explanations!",
             "inline": true
         },
         {
             "name": "国語－文法",
-            "value": "[国語－文法](https://www.youtube.com/playlist?list=PLKRhhk0lEyzM-XOmo9F55BoRlPSSivcVd) Making things a little bit different, here is a playlist on YouTube. The playlist covers a variety of topics surrounding grammar, ranging from 単位 (たんい), to 敬語 (けいご)! All of the videos are in Japanese, meaning you will need at least some level of foundation in order to understand the lessons provided. If you're not fond of the video format, you can have a look at the [site](https://www.kokugobunpou.com/%E7%94%A8%E8%A8%80/#gsc.tab=0). ",
+            "value": "[国語－文法](https://www.youtube.com/playlist?list=PLKRhhk0lEyzM-XOmo9F55BoRlPSSivcVd): making things a little bit different, here is a playlist on YouTube. The playlist covers a variety of topics surrounding grammar, ranging from 単位 (たんい), to 敬語 (けいご)! All of the videos are in Japanese, meaning you will need at least some level of foundation in order to understand the lessons provided. If you're not fond of the video format, you can have a look at the [site](https://www.kokugobunpou.com/%E7%94%A8%E8%A8%80/#gsc.tab=0). ",
             "inline": true
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "name": "Coto JLPT Grammar and Vocab Mega List",
-            "value": "[Coto JLPT Grammar and Vocab Mega List](https://docs.google.com/spreadsheets/d/1m6P8KXrzkgcp9Yxq6AH3uge7kA5yOudwzRN074Cuep0/edit#gid=895217071) Instructions on how to use the spreadsheet are inside. This presentation does cover a lot so I believe it has great potential. Covers N5-N1 Grammar and Vocab.",
+            "value": "[Coto JLPT Grammar and Vocab Mega List](https://docs.google.com/spreadsheets/d/1m6P8KXrzkgcp9Yxq6AH3uge7kA5yOudwzRN074Cuep0/edit#gid=895217071): instructions on how to use the spreadsheet are inside. This presentation does cover a lot so I believe it has great potential. Covers N5-N1 Grammar and Vocab.",
             "inline": true
         },
         {
@@ -62,12 +62,12 @@
         },
         {
             "name": "80/20 Japanese blog",
-            "value": "[80/20 Japanese blog](https://8020japanese.com/blog/) This blog is beginner friendly and covers a lot for beginners. great resource for learning grammar and learning how to begin your journey with Japanese. Highly recommend taking a look at it and seeing if it works for you!",
+            "value": "[80/20 Japanese blog](https://8020japanese.com/blog/): this blog is beginner friendly and covers a lot for beginners. great resource for learning grammar and learning how to begin your journey with Japanese. Highly recommend taking a look at it and seeing if it works for you!",
             "inline": true
         },
         {
             "name": "Upwrite.jp",
-            "value": "[Upwrite.jp](https://upwrite.jp/grammar/) site that teaches and builds up your understanding of grammar by teaching you topics starting with—the various units that text can come in / 単位 (たんい), punctuation, the 5 different types of clauses, the parts of speech, Politeness and Honorifics / 敬語 (けいご), and lastly, the types of structures that text can come in. This can guide you to building a solid foundation to understanding Japanese Grammar. ",
+            "value": "[Upwrite.jp](https://upwrite.jp/grammar/) is a site that teaches and builds up your understanding of grammar by teaching you topics starting with—the various units that text can come in / 単位 (たんい), punctuation, the 5 different types of clauses, the parts of speech, Politeness and Honorifics / 敬語 (けいご), and lastly, the types of structures that text can come in. This can guide you to building a solid foundation to understanding Japanese Grammar. ",
             "inline": true
         }
     ],
