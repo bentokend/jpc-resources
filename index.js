@@ -68,6 +68,19 @@ async function linktree() {
 			},{
 				"type": 1,
 				"components": []
+			},{
+				"type": 1,
+				"components": [{
+					"style": 5,
+					"label": "Suggest a Resource",
+					"url": "https://jpclass.org/feedback?",
+					"disabled": false,
+					"emoji": {
+						"id": null,
+						"name": "📢"
+					},
+					"type": 2
+				}]
 			}
 		]
 	}
@@ -85,6 +98,7 @@ async function linktree() {
 			"type": 2
 		});
 	}
+	payload.components[2]
 	await fetch(`https://discord.com/api/webhooks/${process.env.ID}/${process.env.SECRET}?wait=1`, {
 		method: "post",
 		headers: {
