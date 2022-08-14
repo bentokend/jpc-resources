@@ -98,7 +98,6 @@ async function linktree() {
 			"type": 2
 		});
 	}
-	payload.components[2]
 	await fetch(`https://discord.com/api/webhooks/${process.env.ID}/${process.env.SECRET}?wait=1`, {
 		method: "post",
 		headers: {
